@@ -6,8 +6,7 @@ jQuery 3.3.1 and FontAwesome 4.7.0
 ## How to Use
 1. Load the jQuery and Font Awesome into HTML document.
 
-   <p> 1. Load the jQuery and Font Awesome into HTML document. </p>
-            <pre class="prettyprint lang-html">
+     <pre class="prettyprint lang-html">
 &lt;!--Font Awesome--&gt;
 &lt;link href=&quot;https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css&quot; rel=&quot;stylesheet&quot; integrity=&quot;sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN&quot; crossorigin=&quot;anonymous&quot;&gt;
 &lt;!--jQuery--&gt;
@@ -90,3 +89,7 @@ $(".ss-menu").ssMenu({
 
 });
 </pre>
+
+## Author 
+Asif Mughal <br>
+URL: www.codehim.com
