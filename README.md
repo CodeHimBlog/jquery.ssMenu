@@ -1,4 +1,4 @@
-# jquery.ssMenu
+# jQuery Sticky Side Navigation Menu - ssMenu
 Sticky Side Navigation Menu - Simple, easy to use and user friendly sticky side navigation menu with jQuery ssMenu plugin.
 ## Dependency 
 jQuery 3.3.1 and FontAwesome 4.7.0
