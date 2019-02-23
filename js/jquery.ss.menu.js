@@ -18,7 +18,6 @@
 				'textShadow': '', //to add text shadow 
 			}),
 
-
 		}, options);
 
 		return this.each(function () {
